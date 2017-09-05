@@ -1,6 +1,5 @@
 <templateSet group="Zen CSS">
   <template name="us" value="user-select:$VAR0$;" description="user-select:...;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;st.anus&quot;" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
