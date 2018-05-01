@@ -1,0 +1,40 @@
+<application>
+  <component name="TemplateSettings">
+    <option name="deletedKeys">
+      <list>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-component" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-directive" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-http-interceptor" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-module" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-pipe" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-module-routing" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-service" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-output-event" />
+        </TemplateKey>
+      </list>
+    </option>
+  </component>
+</application>
