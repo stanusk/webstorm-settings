@@ -1,5 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.3.3.2" />
+    <option name="version" value="2.8.2" />
+    <option name="isDecoratedFolders" value="false" />
+    <option name="userId" value="1514847d:16579b54b50:-7fff" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
   </component>
 </application>
