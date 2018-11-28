@@ -13,10 +13,10 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.js</mask>
-    <mask>*.less</mask>
     <mask>*.module.ts</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.scss</mask>
+    <mask>*.less</mask>
   </component>
 </application>
